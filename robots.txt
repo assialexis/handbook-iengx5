@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://assialexis.github.io/handbook-iengx5/sitemap.xml
